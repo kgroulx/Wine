@@ -1,5 +1,8 @@
 # wine
 Basic classification and regression analysis of wine data collected from Northern Portugal.
+
+For a snapshot summary of the data and analysis, please view summary.md in this folder.
+
 For sensitivity reasons, only empirical sensory measures of the wine are represented here.
 Sensitive measures, such as brands, prices, grapes used, etc. have been redacted.
 All data is taken from the UCI Machine Learning Repository, found at http://archive.ics.uci.edu/ml/datasets/Wine+Quality.
